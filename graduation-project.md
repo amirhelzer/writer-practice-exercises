@@ -3,6 +3,8 @@ title: Graduation project
 nav_order: 2
 ---
 
+# Graduation project
+
 For your graduation, you’ll need to write two pieces of content:
 
 1. Promoting a communist farm in the outskirts of Tokyo.  
