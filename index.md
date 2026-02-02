@@ -1,6 +1,7 @@
 ---
 title: Practice What You Learned
 nav_order: 1
+has_toc: true
 ---
 
 # Practice What You Learned
